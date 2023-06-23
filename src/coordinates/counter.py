@@ -1,5 +1,5 @@
 from math import cos, sin, acos
-from models import Coordinate
+#from models import Coordinate
 
 def coordinates_distance(lat1, lat2, lon1, lon2) -> float:
     """
